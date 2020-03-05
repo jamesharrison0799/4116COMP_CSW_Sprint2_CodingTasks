@@ -4,3 +4,6 @@
  * [For Loop](https://github.com/jamesharrison0799/4116COMP_CSW_Sprint2_CodingTasks/blob/master/Java_loops/src/loops/DoWhileLoop.java)
  * [While Loop](https://github.com/jamesharrison0799/4116COMP_CSW_Sprint2_CodingTasks/blob/master/Java_loops/src/loops/ForLoop.java)
  * [Do/While Loop](https://github.com/jamesharrison0799/4116COMP_CSW_Sprint2_CodingTasks/blob/master/Java_loops/src/loops/WhileLoop.java)
+
+## [Java Methods](https://github.com/jamesharrison0799/4116COMP_CSW_Sprint2_CodingTasks/tree/master/Java_Methods/src/methods)
+* [Basic Methods](https://github.com/jamesharrison0799/4116COMP_CSW_Sprint2_CodingTasks/blob/master/Java_Methods/src/methods/Method.java)
