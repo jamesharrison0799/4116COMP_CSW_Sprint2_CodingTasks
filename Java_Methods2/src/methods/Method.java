@@ -6,7 +6,8 @@ public class Method {
 	public static void main(String[] args) {
 		System.out.println(returnTypeMethod());
 		System.out.println(printProfile("james","harrison",20));
-		System.out.println(addInts(10,20));
+		System.out.println(add(10,20));
+		System.out.println(add(10.65,20.15));
 	}
 	
 	//return-type method
@@ -23,10 +24,14 @@ public class Method {
 		
 	}
 	
-	public static int addInts(int x, int y) {
-		int z = x + y;
-		return z;
+	public static int add(int x, int y) {
+		return x + y;
 	}
+	public static double add(double x, double y) {
+		return x + y;
+	}
+	
+	
 	
 }
 
